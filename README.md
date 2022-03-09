@@ -22,7 +22,7 @@ This project was carried out to show how a Local Binary Pattern Histogram (LBPH)
 
 
 
-                                  **The facial recognition system has three main phases, which are described below:**
+    **The facial recognition system has three main phases, which are described below:**
 1.1	Face Detection
 Face detection is the ability to identify the person’s faces within the digital images. This system identifies the human face present in an image or video. We need to define a general structure of a face to determine certain picture or video contains a face (or several). Human faces have the same features such as eyes, nose, forehead, mouth, and chin. Therefore, the objective of face detection is to find the location and size of the face in an image. The located face is then used by the facial recognition algorithm.
 
@@ -36,6 +36,6 @@ Face Recognition is being able to uniquely identify and verify a person’s face
 
  
 
-                                                          	**CONCLUSION **
+    **CONCLUSION **
 
 Automated Attendance System has been envisioned for the purpose of reducing the errors that occur in the traditional (manual) attendance taking system. The aim is to automate and make a system that is useful to the organization such as an institute. The efficient and accurate method of attendance in the office environment that can replace the old manual methods. This method is secure enough, reliable and available for use. No need for specialized hardware for installing the system in the office. It can be constructed using a camera and computer.
